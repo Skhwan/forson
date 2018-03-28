@@ -1,0 +1,19 @@
+.Promo-parent {
+    text-align: center;
+    padding: 2vw;
+}
+
+.Promo-list {
+    border-radius: 5vmin;
+    background-color: #3c3f52;
+    height: 10vh;
+    padding: 2vw;
+    margin-top: 5vmin;
+    margin-bottom: 5vmin;
+    color: white;
+}
+
+.Promo-content {
+    font-size: 4vh;
+}
+
